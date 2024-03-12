@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README.md file that you can use for your GitHub repository. Feel free to customize it further according to your project's specific details and requirements.
-
----
-
 # Impact of Internet on Global GDP Analysis
 
 ## Overview
