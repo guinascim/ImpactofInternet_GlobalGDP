@@ -35,10 +35,3 @@ This repository contains the code and data for a data analysis project focused o
 ## Contributors
 - Guilherme Nascimento (https://github.com/guinascim)
 - Victor Cagnin (https://github.com/vvfc1991)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Feel free to customize this README template with additional sections, details, or formatting to better suit your project's needs. Good luck with your data analysis project! If you have any further questions or need additional assistance, feel free to ask.
