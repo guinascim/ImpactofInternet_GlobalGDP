@@ -3,6 +3,7 @@
 ## Overview
 This repository contains the code and data for a data analysis project focused on examining the impact of internet usage on the global Gross Domestic Product (GDP) over the period of 2010 to 2030. The analysis aims to explore the relationship between internet penetration rates and economic growth across different countries.
 
+To see the presentation go to https://gnltalentos.wixsite.com/the-impact-of-intern
 ## Data Sources
 - **Global GDP Data (2010-2020):** The dataset provides annual GDP values for various countries from 2010 to 2020. 
 - **Internet Users Data (2010-2020):** This dataset includes information on the number of internet users worldwide from 2010 to 2020.
